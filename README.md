@@ -13,7 +13,7 @@
 </pre>
 </div>
 <p align="center">
-	<em><code>❯ REPLACE-ME</code></em>
+	<em><code>❯ StarBuck-Clone </code></em>
 </p>
 <p align="center">
 	<!-- Shields.io badges disabled, using skill icons. --></p>
@@ -21,7 +21,14 @@
 <p align="center">
 	<a href="https://skillicons.dev">
 		<img src="https://skillicons.dev/icons?i=html,md">
-	</a></p>
+	</a>
+	<a href="https://skillicons.dev">
+		<img src="https://skillicons.dev/icons?i=css,md">
+	</a>
+	<a href="https://skillicons.dev">
+		<img src="https://skillicons.dev/icons?i=javascript,md">
+	</a>
+</p>
 <br>
 
 ## 🔗 Table of Contents
@@ -44,13 +51,19 @@
 
 ## 📍 Overview
 
-<code>❯ REPLACE-ME</code>
+<code>❯ A static front-end clone of the Starbucks website, built using HTML, CSS, and jQuery (assets). This project simulates the aesthetics and navigation of the original Starbucks site, featuring a home page (index.html), a product view, and a category view</code>
 
 ---
 
 ## 👾 Features
 
-<code>❯ REPLACE-ME</code>
+<code> 
+- Static Front-end Emulation: Mimics Starbucks site structure with home, category, and product views.
+
+- Responsive Design (if applicable): (You may want to mention if it’s mobile-friendly, responsive, etc.)
+
+- Modular File Organization: Cleanly separated HTML views and asset folders for CSS, images, and jQuery.
+- </code>
 
 ---
 
